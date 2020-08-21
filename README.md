@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**dortega5185/dortega5185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm David! I'm a software engineer who is passionate about VR, writing readable code and automating standard tasks.
 
-Here are some ideas to get you started:
+What I'm currently Working On!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... ecommerce app
+- 🌱 I’m currently learning ... Typescript
+- 👯 I’m looking to collaborate on ... React.js
+- 🤔 I’m looking for help with ... Shopify
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... dortega5185@gmail.com
+- ⚡ Fun fact: ... I'm half italian
 -->
