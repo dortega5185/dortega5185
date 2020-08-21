@@ -11,4 +11,3 @@ What I'm currently Working On!
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... dortega5185@gmail.com
 - ⚡ Fun fact: ... I'm half italian
--->
