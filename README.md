@@ -9,5 +9,5 @@ What I'm currently Working On!
 - 👯 I’m looking to collaborate on ... React.js, Next.js, Python
 - 🤔 I’m looking for help with ... Shopify
 - 💬 Ask me about ... Next Js and Python
-- 📫 How to reach me: ... dortega5185@gmail.com
+- 📫 How to reach me: ... davidmizativanortega@gmail.com
 - ⚡ Fun fact: ... I was born and raised in Queens, NY.
